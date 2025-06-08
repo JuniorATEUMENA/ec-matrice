@@ -1,0 +1,314 @@
+
+{
+	"commands" : "",
+	"description" : "Generated when this file was opened on 2025/05/29 16:19:26.",
+	"label" : "auto base",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\junio\\documents\\m1 data semester2\\capstone\\ultime\\data_es_eurostat_1999q1_2024q4.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "Q",
+				"_last_update" : [ 739327.4858564815, "03/18/2025 11:39" ],
+				"_name" : "source",
+				"_obj_count" : 16,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 739159.0, "10/01/2024" ],
+						"_obs_min" : [ 729754.0, "01/01/1999" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "ALPHACT_ES",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "ALPHACT_NL",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "ALPHALT_ES",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "ALPHALT_NL",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "G_V_YOY_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "G_V_YOY_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LTN_10Y_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LTN_10Y_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MATURITY_ES",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "MATURITY_NL",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SOLDEP_P_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SOLDEP_P_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "STN_3M_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "STN_3M_NL",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 104
+			},
+			
+			{
+				"_frequency" : "A",
+				"_last_update" : [ 739327.4858564815, "03/18/2025 11:39" ],
+				"_name" : "annual",
+				"_obj_count" : 22,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 746556.0, "01/01/2045" ],
+						"_obs_min" : [ 726467.0, "01/01/1990" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "ALPHACT_ES",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "ALPHACT_NL",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "ALPHALT_ES",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "ALPHALT_NL",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "DDA_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DDA_BKCOM_000_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "G_V_YOY_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "G_V_YOY_BKCOM_000_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IIR_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IIR_BKCOM_000_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LTN_10Y_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LTN_10Y_BKCOM_000_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MAL_P_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MAL_P_BKCOM_000_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MATURITY_ES",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "MATURITY_NL",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SOLDEP_P_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "SOLDEP_P_BKCOM_000_NL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "STN_3M_BKCOM_000_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "STN_3M_BKCOM_000_NL",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 56
+			},
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 739327.4858564815, "03/18/2025 11:39" ],
+				"_name" : "euribor_3m",
+				"_obj_count" : 3,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 739220.0, "12/01/2024" ],
+						"_obs_min" : [ 715509.0, "01/01/1960" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "IR3TIB01DEM156N",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 780
+			},
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 739327.4858564815, "03/18/2025 11:39" ],
+				"_name" : "ir_lt_mcby",
+				"_obj_count" : 4,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 739220.0, "12/01/2024" ],
+						"_obs_min" : [ 715509.0, "01/01/1960" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "LTN_10Y_ES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "LTN_10Y_IT",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 780
+			}
+		]
+	}
+}
